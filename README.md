@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi 👋! My name is Mrithul and I'm a Computer Science student & Developer, passionate about Programming, Web Development, and Creative Tech.
+Hi 👋! I’m Mrithul, a Data Science student and developer with a strong interest in programming, web development, and creative technology.
 </h2>
 
 
