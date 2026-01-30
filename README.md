@@ -31,22 +31,31 @@ Hi 👋! My name is Mrithul and I'm a Computer Science student & Developer, pass
 
 <div align="left">
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
 <img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
 <img width="12"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"/>
+<img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
 <img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
 <img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
 <img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="30" style="filter: invert(1);" />
 <img width="12"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
 
 </div>
+
 
 ---
 
