@@ -106,5 +106,3 @@ Hi 👋! My name is Mrithul and I'm a Computer Science student & Developer, pass
 </div>
 
 ---
-
-<img src="https://github.com/MrithulP/MrithulP/blob/output/snake.svg" alt="Snake animation" />
