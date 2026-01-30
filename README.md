@@ -2,19 +2,16 @@
 Hi 👋! My name is Mrithul and I'm a Computer Science student & Developer, passionate about Programming, Web Development, and Creative Tech.
 </h2>
 
-<img align="right" height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=MrithulP&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false" />
-
 <br/>
 
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrithulP&theme=shadow_blue&hide_border=false&layout=compact" />
 
 <br/>
 
