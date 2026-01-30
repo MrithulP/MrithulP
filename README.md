@@ -49,7 +49,7 @@ Hi 👋! I’m Mrithul, a Data Science student and developer with a strong inter
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
 <img width="12"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" />
+<img src="https://cdn.simpleicons.org/github/FFFFFF" height="30" />
 <img width="12"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
