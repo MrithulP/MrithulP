@@ -1,5 +1,5 @@
 <h2 align="left">
-Hi 👋! I’m Mrithul, a Data Science student and developer with a strong interest in programming, web development, and creative technology.
+Hi 👋! I’m Mrithul, a Data Science student and developer with a strong interest in programming, web development, and creative technology. I’m passionate about building websites and applications, developing innovative solutions, exploring game development, and combining technical expertise with creativity, including photography.
 </h2>
 
 
