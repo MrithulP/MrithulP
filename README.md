@@ -100,7 +100,7 @@ Covered major school events, supported inter-school programs, and contributed to
 
 ## 🌐 Portfolio
 
-<a href="YOUR_PORTFOLIO_LINK">
+<a href="https://mrithulp.github.io/portfolio">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" height="35"/>
 </a>
 
@@ -109,7 +109,7 @@ Covered major school events, supported inter-school programs, and contributed to
 ## 📬 Connect with Me
 
 <div align="left">
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/mrithul-padinhattayil-b1251a3aa/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
   </a>
   <a href="mailto:mridhull2008@gmail.com">
