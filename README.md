@@ -101,7 +101,7 @@ Hi 👋! I’m Mrithul, a Data Science student and developer with a strong inter
   <a href="YOUR_LINKEDIN_LINK">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge" height="35"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:mridhull2008@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge" height="35"/>
   </a>
   <a href="https://github.com/MrithulP">
