@@ -110,17 +110,14 @@ Covered major school events, supported inter-school programs, and contributed to
 
 <div align="left">
 
-<a href="https://www.linkedin.com/in/mrithul-padinhattayil-b1251a3aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-EEF3FF?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-&nbsp;
-<a href="mailto:mridhull2008@gmail.com">📧 Email Me</a>
-&nbsp;
-<a href="https://github.com/MrithulP">
-  <img src="https://img.shields.io/badge/GitHub-F5F5F5?style=for-the-badge&logo=github&logoColor=000000"/>
-</a>
+<a href="https://www.linkedin.com/in/mrithul-padinhattayil-b1251a3aa/">[ LinkedIn ]</a>
+&nbsp;•&nbsp;
+<a href="mailto:mridhull2008@gmail.com">[ Email ]</a>
+&nbsp;•&nbsp;
+<a href="https://github.com/MrithulP">[ GitHub ]</a>
 
 </div>
+
 
 
 
