@@ -92,11 +92,6 @@ Covered major school events, supported inter-school programs, and contributed to
 
 ---
 
-## 📜 Certifications
-
-*(To be updated — certifications will be added here soon)*
-
----
 
 ## 🌐 Website
 
