@@ -18,6 +18,12 @@ I enjoy building practical tools, interactive websites, and game systems that co
 
 </div>
 
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=MrithulP&show_icons=true&theme=radical" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrithulP&theme=radical&layout=compact" />
+</div>
+
+
 ---
 
 ## 🛠️ Tech Stack
