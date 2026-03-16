@@ -10,7 +10,6 @@ I enjoy building practical tools, interactive websites, and game systems that co
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=MrithulP&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MrithulP&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrithulP&theme=shadow_blue&hide_border=false&layout=compact)
 
