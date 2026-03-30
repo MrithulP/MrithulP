@@ -16,11 +16,12 @@ I build practical web apps, automation tools, and creative tech projects that so
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** <br>
-Python • R • JavaScript • HTML • CSS  • C
-<br>
-**Tools:**<br> 
-GitHub • VS Code  
+
+**Languages**  
+`Python` `R` `JavaScript` `HTML` `CSS` `C`  
+
+**Tools**  
+`GitHub` `VS Code` 
 
 ---
 
