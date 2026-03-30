@@ -1,8 +1,20 @@
-<h2 align="left">
-Hi 👋 I’m Mrithul — a Data Science student & developer passionate about programming, web development, and creative technology.
-</h2>
+<h1 align="center">Hi 👋, I'm Mrithul</h1>
+<h3 align="center">Data Science Student • Developer • Creative Technologist</h3>
 
-I enjoy building practical tools, interactive websites, and game systems that combine logic with design. I’m especially interested in solving real-world problems using code and experimenting with creative tech projects.
+<p align="center">
+I build practical tools, interactive web apps, and creative tech projects that combine logic with design.<br/>
+Passionate about solving real-world problems through code and continuously learning new technologies.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Data Science student with strong interest in development & problem-solving  
+- 💡 Love building **real-world applications**, not just tutorials  
+- 🎮 Experimenting with **game systems & interactive experiences**  
+- 🌐 Focused on **web development + automation tools**  
+- 📈 Always learning and improving through projects  
 
 ---
 
@@ -21,91 +33,106 @@ I enjoy building practical tools, interactive websites, and game systems that co
 
 ## 🛠️ Tech Stack
 
-<div align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/>
-<img width="12"/>
-<img src="https://cdn.simpleicons.org/github/FFFFFF" height="30"/>
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/>
-
-</div>
+<p>
+C • Python • R • HTML • CSS • JavaScript  
+<br/>
+Tools: GitHub • VS Code
+</p>
 
 ---
 
-## 🚀 Projects
+## 💼 Featured Projects
 
-### 🌐 School Clubs Portal
-Centralized web platform supporting 20+ school clubs  
-- Registration system using Google Apps Script & Sheets API  
-- Automated weekly report display  
-- Digital attendance tracking and structured data system
-
-### 📅 Careers Appointment Booking System
-Web scheduling platform for student–counselor meetings  
-- Google Sheets + Apps Script backend automation  
-- Real-time form handling and streamlined workflow
-
-### 🎮 Unreal Engine Game Experiments
-Original game prototypes focused on gameplay systems  
-- Movement mechanics: slow motion, teleportation, traversal  
-- Logic-driven interaction and UI integration
-
-### 🧩 Interactive Quiz Platform
-Web-based quiz engine for structured assessments  
-- Multi-page quiz flow with scoring logic  
-- Dynamic question handling and result generation
-
-### 📸 Media Hub Event Platforms
-Event websites and internal digital tools  
-- Competition portals and festival platforms  
-- Rapid deployment for live school events
-
-…and many more experimental builds and mini-projects.
+### 🌐 School Clubs Portal  
+A centralized platform supporting 20+ school clubs  
+- Built using Google Apps Script + Sheets API  
+- Automated weekly reports and attendance tracking  
+- Improved internal data organization and accessibility  
 
 ---
 
-## 🏆 Achievements & Roles
-
-🏅 **Chairman — Media Hub (Senior High)**  
-Led digital media initiatives, organized school events, and represented the school in inter-school competitions, winning multiple prizes while managing student tech and creative teams.
-
-👨‍💼 **Chairman — Careers Committee (Senior High)**  
-Organized and volunteered at large-scale university fairs, including events hosting nearly 200 universities, while developing digital booking systems to streamline student access to guidance.
-
-💻 **Web & Tools Developer (Senior High)**  
-Built portals and automation systems for internal school operations, improving administrative workflows and digital accessibility.
-
-📷 **Photographer & Event Volunteer (Senior High)**  
-Covered major school events, supported inter-school programs, and contributed to event organization and visual media production.
+### 📅 Careers Appointment Booking System  
+Scheduling platform for student–counselor meetings  
+- Automated backend using Google Sheets  
+- Real-time form handling and booking workflow  
+- Reduced manual coordination effort  
 
 ---
 
+### 🎮 Unreal Engine Game Experiments  
+Prototype-based game development projects  
+- Implemented mechanics like slow-motion & teleportation  
+- Focus on gameplay systems and interaction logic  
+- UI integration and player experience design  
 
-## 🌐 Website
+---
 
+### 🧩 Interactive Quiz Platform  
+Dynamic web-based quiz system  
+- Multi-page flow with scoring logic  
+- Real-time response handling  
+- Structured assessment system  
+
+---
+
+### 📸 Media Hub Event Platforms  
+Web platforms for school events and competitions  
+- Built rapid-deployment event websites  
+- Supported live competitions and festivals  
+- Designed for usability and scalability  
+
+---
+
+## 🏆 Leadership & Experience
+
+### 🏅 Chairman — Media Hub (Senior High)
+- Led tech & media initiatives across school events  
+- Managed teams and represented school in competitions  
+- Delivered multiple award-winning projects  
+
+### 👨‍💼 Chairman — Careers Committee (Senior High)
+- Organized large-scale university fairs (200+ universities)  
+- Built booking systems to streamline student access  
+- Improved event coordination using digital tools  
+
+### 💻 Web & Tools Developer
+- Developed internal portals and automation systems  
+- Enhanced workflow efficiency for school operations  
+
+### 📷 Photographer & Event Volunteer
+- Covered major events and inter-school programs  
+- Contributed to media production and event execution  
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
 <a href="https://mrithulp.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/Website-Visit%20Now-blue?style=for-the-badge&logo=internet-explorer&logoColor=white" height="35"/>
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-blue?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
+</p>
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrithul-padinhattayil-b1251a3aa/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mridhull2008@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrithulP)
+<p align="center">
+<a href="https://www.linkedin.com/in/mrithul-padinhattayil-b1251a3aa/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:mridhull2008@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/MrithulP">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+</a>
+</p>
 
 ---
+
+## ⚡ Philosophy
+
+> Build. Break. Learn. Repeat.
 
 ⭐ Always building. Always learning.
