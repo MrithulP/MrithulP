@@ -53,13 +53,11 @@ I build practical web apps, automation tools, and creative tech projects that so
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-   &nbsp;
   
   <a href="mailto:mridhull2008@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   
-   &nbsp;
   
   <a href="https://github.com/MrithulP">
     <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
