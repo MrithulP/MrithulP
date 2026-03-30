@@ -9,15 +9,15 @@ I build practical web apps, automation tools, and creative tech projects that so
 
 ## 🚀 About Me
 - 🎓 Data Science student  
-- 💻 Focus: Web dev, automation, problem-solving  
+- 💻 Focus: Web development, automation, problem-solving  
 - 🎮 Exploring game systems & interactive tech  
 - ⚡ I learn by building  
 
 ---
 
-## 🛠️ Tech
-**Python • R • JavaScript • HTML • CSS**  
-GitHub • VS Code
+## 🛠️ Tech Stack
+**Languages:** Python • R • JavaScript • HTML • CSS  
+**Tools:** GitHub • VS Code  
 
 ---
 
@@ -30,9 +30,9 @@ GitHub • VS Code
 ---
 
 ## 🏆 Experience
-- 🏅 Chairman — Media Hub  
-- 👨‍💼 Chairman — Careers Committee  
-- 💻 Built internal tools improving school workflows  
+- 🏅 Chairman — Media Hub (Senior High School)  
+- 👨‍💼 Chairman — Careers Committee (Senior High School)  
+- 💻 Web & Tools Developer (Senior High School)  
 
 ---
 
@@ -44,9 +44,17 @@ GitHub • VS Code
 ---
 
 ## 📬 Connect
-[LinkedIn](https://www.linkedin.com/in/mrithul-padinhattayil-b1251a3aa/) • 
-[Email](mailto:mridhull2008@gmail.com) • 
-[GitHub](https://github.com/MrithulP)
+<p align="center">
+<a href="https://www.linkedin.com/in/mrithul-padinhattayil-b1251a3aa/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mridhull2008@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/MrithulP">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 ---
 
