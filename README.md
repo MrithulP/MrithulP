@@ -9,7 +9,9 @@ I build practical web apps, automation tools, and creative tech projects that so
 
 ## 📊 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=MrithulP&theme=github-dark&hide_border=true" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MrithulP&theme=github-dark&hide_border=true" />
+</p>
 
 ---
 
