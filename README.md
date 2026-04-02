@@ -42,9 +42,9 @@ I build practical web apps, automation tools, and creative tech projects that so
 ---
 
 ## 🏆 Experience
-- 🏅 Chairman — Media Hub (Senior High School)  
-- 👨‍💼 Chairman — Careers Committee (Senior High School)  
-- 💻 Web & Tools Developer (Senior High School)  
+- 🏅 Chairman — Media Hub (Senior High School Student Leadership)
+- 👨‍💼 Chairman — Careers Committee (Senior High School Student Leadership)
+- 💻 Student Web & Tools Developer (Senior High School)
 
 ---
 
