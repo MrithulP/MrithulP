@@ -8,7 +8,8 @@ I build practical web apps, automation tools, and creative tech projects that so
 ---
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://streak-stats.demolab.com?user=MrithulP&theme=default&hide_border=true)
+
+<img src="https://streak-stats.demolab.com?user=MrithulP&theme=github-dark&hide_border=true" />
 
 ---
 
