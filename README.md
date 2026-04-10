@@ -29,7 +29,7 @@ I build practical web apps, automation tools, and creative tech projects that so
 `Python` `R` `JavaScript` `HTML` `CSS` `C`  
 
 **Tools**  
-`GitHub` `VS Code` 
+`GitHub` `VS Code` `R Studio`
 
 ---
 
