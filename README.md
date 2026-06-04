@@ -10,7 +10,7 @@ I build practical web apps, automation tools, and creative tech projects that so
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img  alt="MrithulP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MrithulP?cardType=level&theme=slateorange&fontFamily=&preferLogin=true" />
+  <img  alt="MrithulP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MrithulP?cardType=github&theme=slateorange&fontFamily=&preferLogin=false" />
 </p>
 
 ---
