@@ -26,10 +26,10 @@ I build practical web apps, automation tools, and creative tech projects that so
 ## 🛠️ Tech Stack
 
 **Languages**  
-`Python` `R` `JavaScript` `HTML` `CSS` `C`  
+`Python` `R` `JavaScript` `HTML` `CSS` `C` `C++` `SQL`
 
 **Tools**  
-`GitHub` `VS Code` `R Studio`
+`GitHub` `VS Code` `R Studio` `MySQL`
 
 ---
 
