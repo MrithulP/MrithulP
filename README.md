@@ -23,7 +23,7 @@ I build practical web apps, automation tools, and creative tech projects that so
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Mastered / Learning)
 
 **Languages**  
 `Python` `R` `JavaScript` `HTML` `CSS` `C` `C++` `SQL`
