@@ -8,6 +8,14 @@ I build practical projects across data science, AI, and software development, wi
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img alt="MrithulP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MrithulP?cardType=github&theme=slateorange&fontFamily=&preferLogin=false" />
+</p>
+
+---
+
 ## 🧠 About Me
 
 * 🎓 BCA (Hons.) Data Science student at Chandigarh University
