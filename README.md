@@ -15,7 +15,7 @@ I build practical projects across data science, AI, and software development, wi
 </p>
 
 <p align="center">
-  ![Top Languages](https://ghstats.dev/api/langs?username=MrithulP)
+  <img src="https://ghstats.dev/api/langs?username=MrithulP" alt="Top Languages" />
 </p>
 ---
 
