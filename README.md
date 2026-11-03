@@ -17,6 +17,7 @@ I build practical projects across data science, AI, and software development, wi
 <p align="center">
   <img src="https://ghstats.dev/api/langs?username=MrithulP" alt="Top Languages" />
 </p>
+
 ---
 
 ## 🧠 About Me
