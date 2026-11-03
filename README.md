@@ -14,6 +14,8 @@ I build practical projects across data science, AI, and software development, wi
   <img alt="MrithulP's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/MrithulP?cardType=github&theme=slateorange&fontFamily=&preferLogin=false" />
 </p>
 
+![Top Languages](https://ghstats.dev/api/langs?username=MrithulP)
+
 ---
 
 ## 🧠 About Me
