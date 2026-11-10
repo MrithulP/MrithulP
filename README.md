@@ -105,7 +105,7 @@
 </p>
 
 <!-- GitHub stats + top languages (github-readme-stats, themed) -->
-<p align="center">
+<!--<p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=MrithulP&show_icons=true&hide_rank=true&custom_title=GitHub%20at%20a%20glance&bg_color=F7F4EB&title_color=0B0C0E&text_color=3A3A38&icon_color=0B0C0E&border_color=CFCBBE&hide_border=false&border_radius=16"
     width="400"
@@ -114,7 +114,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrithulP&layout=compact&custom_title=Top%20languages&bg_color=F7F4EB&title_color=0B0C0E&text_color=3A3A38&icon_color=0B0C0E&border_color=CFCBBE&hide_border=false&border_radius=16"
     width="300"
     alt="Top languages for MrithulP">
-</p>
+</p>-->
 
 <!-- Contribution streak (themed) -->
 <p align="center">
