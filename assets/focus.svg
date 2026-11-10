@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" role="img" aria-labelledby="fo-t">
+<title id="fo-t">Currently exploring: Machine Learning, Data Structures and Algorithms, Computer Vision, Artificial Intelligence, and AI/ML research.</title>
+<defs>
+<linearGradient id="fo-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F4EB"/><stop offset="1" stop-color="#EEEADF"/></linearGradient>
+<radialGradient id="fo-glow" cx="82%" cy="30%" r="55%"><stop offset="0" stop-color="#DAD5C6" stop-opacity=".55"/><stop offset="1" stop-color="#CBC6B6" stop-opacity="0"/></radialGradient>
+<pattern id="fo-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#3A3A38" stroke-opacity=".07"/></pattern>
+<filter id="fo-gf" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="fo-clip"><rect width="1200" height="200" rx="18"/></clipPath>
+<linearGradient id="fo-tr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0C0E"/><stop offset=".45" stop-color="#1A1A19"/><stop offset="1" stop-color="#3A3A38" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.fo-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}
+.fo-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.fo-sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.fo-in{animation:fo-in 1.2s cubic-bezier(.16,1,.3,1) both}
+.fo-d1{animation-delay:.15s}.fo-d2{animation-delay:.4s}.fo-d3{animation-delay:.65s}
+.fo-chip{animation:fo-chip .7s cubic-bezier(.34,1.56,.64,1) both}
+.fo-draw{stroke-dasharray:700;stroke-dashoffset:700;animation:fo-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards}
+.fo-trace{stroke-dasharray:564 3136;stroke-dashoffset:3700;animation:fo-trace 7s linear infinite}
+@keyframes fo-in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes fo-chip{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes fo-draw{to{stroke-dashoffset:0}}
+@keyframes fo-trace{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.fo-in,.fo-chip{animation:none}.fo-draw{animation:none;stroke-dashoffset:0}.fo-trace{display:none}}
+</style>
+<g clip-path="url(#fo-clip)">
+<rect width="1200" height="200" fill="url(#fo-bg)"/>
+<rect x="1200" width="0" height="200" fill="url(#fo-grid)"/>
+<rect width="1200" height="200" fill="url(#fo-glow)"/>
+<g class="fo-in" style="animation-delay:0.20s">
+<rect x="40" y="30" width="208" height="140" rx="14" fill="#FCFAF5" fill-opacity=".7" stroke="#3A3A38" stroke-opacity=".25"/>
+<text class="fo-mono" x="60" y="58" font-size="11" letter-spacing="2" fill="#3A3A38">01</text>
+<text class="fo-mono" x="228" y="58" text-anchor="end" font-size="9.5" letter-spacing="2" fill="#5E5D58">MODELS</text>
+<text class="fo-serif" x="60" y="104" font-size="23" font-weight="300" fill="#0B0C0E">Machine</text>
+<text class="fo-serif" x="60" y="132" font-size="23" font-weight="300" font-style="italic" fill="#1A1A19">Learning</text>
+<circle cx="228" cy="146" r="3" fill="#000000"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin="0.0s" repeatCount="indefinite"/></circle>
+</g><g class="fo-in" style="animation-delay:0.32s">
+<rect x="268" y="30" width="208" height="140" rx="14" fill="#FCFAF5" fill-opacity=".7" stroke="#3A3A38" stroke-opacity=".25"/>
+<text class="fo-mono" x="288" y="58" font-size="11" letter-spacing="2" fill="#3A3A38">02</text>
+<text class="fo-mono" x="456" y="58" text-anchor="end" font-size="9.5" letter-spacing="2" fill="#5E5D58">FOUNDATIONS</text>
+<text class="fo-serif" x="288" y="104" font-size="23" font-weight="300" fill="#0B0C0E">Data Structures</text>
+<text class="fo-serif" x="288" y="132" font-size="23" font-weight="300" font-style="italic" fill="#1A1A19">&amp; Algorithms</text>
+<circle cx="456" cy="146" r="3" fill="#000000"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin="0.4s" repeatCount="indefinite"/></circle>
+</g><g class="fo-in" style="animation-delay:0.44s">
+<rect x="496" y="30" width="208" height="140" rx="14" fill="#FCFAF5" fill-opacity=".7" stroke="#3A3A38" stroke-opacity=".25"/>
+<text class="fo-mono" x="516" y="58" font-size="11" letter-spacing="2" fill="#3A3A38">03</text>
+<text class="fo-mono" x="684" y="58" text-anchor="end" font-size="9.5" letter-spacing="2" fill="#5E5D58">PERCEPTION</text>
+<text class="fo-serif" x="516" y="104" font-size="23" font-weight="300" fill="#0B0C0E">Computer</text>
+<text class="fo-serif" x="516" y="132" font-size="23" font-weight="300" font-style="italic" fill="#1A1A19">Vision</text>
+<circle cx="684" cy="146" r="3" fill="#000000"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin="0.8s" repeatCount="indefinite"/></circle>
+</g><g class="fo-in" style="animation-delay:0.56s">
+<rect x="724" y="30" width="208" height="140" rx="14" fill="#FCFAF5" fill-opacity=".7" stroke="#3A3A38" stroke-opacity=".25"/>
+<text class="fo-mono" x="744" y="58" font-size="11" letter-spacing="2" fill="#3A3A38">04</text>
+<text class="fo-mono" x="912" y="58" text-anchor="end" font-size="9.5" letter-spacing="2" fill="#5E5D58">SYSTEMS</text>
+<text class="fo-serif" x="744" y="104" font-size="23" font-weight="300" fill="#0B0C0E">Artificial</text>
+<text class="fo-serif" x="744" y="132" font-size="23" font-weight="300" font-style="italic" fill="#1A1A19">Intelligence</text>
+<circle cx="912" cy="146" r="3" fill="#000000"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin="1.2000000000000002s" repeatCount="indefinite"/></circle>
+</g><g class="fo-in" style="animation-delay:0.68s">
+<rect x="952" y="30" width="208" height="140" rx="14" fill="#FCFAF5" fill-opacity=".7" stroke="#3A3A38" stroke-opacity=".25"/>
+<text class="fo-mono" x="972" y="58" font-size="11" letter-spacing="2" fill="#3A3A38">05</text>
+<text class="fo-mono" x="1140" y="58" text-anchor="end" font-size="9.5" letter-spacing="2" fill="#5E5D58">PAPERS</text>
+<text class="fo-serif" x="972" y="104" font-size="23" font-weight="300" fill="#0B0C0E">AI / ML</text>
+<text class="fo-serif" x="972" y="132" font-size="23" font-weight="300" font-style="italic" fill="#1A1A19">Research</text>
+<circle cx="1140" cy="146" r="3" fill="#000000"><animate attributeName="opacity" values=".2;1;.2" dur="2.4s" begin="1.6s" repeatCount="indefinite"/></circle>
+</g>
+<rect x=".5" y=".5" width="1199" height="199" rx="17.5" fill="none" stroke="#3A3A38" stroke-opacity=".2"/>
+<rect class="fo-trace" x=".5" y=".5" width="1199" height="199" rx="17.5" fill="none" stroke="url(#fo-tr)" stroke-width="1.6" stroke-linecap="round"/>
+</g></svg>

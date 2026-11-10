@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 290" width="1200" height="290" role="img" aria-labelledby="mb-t">
+<title id="mb-t">More builds: Craji Tic Tac Toe in C++17, a Personal Finance Analyzer in R, and an Appointment Booking system.</title>
+<defs>
+<linearGradient id="mb-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F4EB"/><stop offset="1" stop-color="#EEEADF"/></linearGradient>
+<radialGradient id="mb-glow" cx="82%" cy="30%" r="55%"><stop offset="0" stop-color="#DAD5C6" stop-opacity=".55"/><stop offset="1" stop-color="#CBC6B6" stop-opacity="0"/></radialGradient>
+<pattern id="mb-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#3A3A38" stroke-opacity=".07"/></pattern>
+<filter id="mb-gf" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="mb-clip"><rect width="1200" height="290" rx="18"/></clipPath>
+<linearGradient id="mb-tr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0C0E"/><stop offset=".45" stop-color="#1A1A19"/><stop offset="1" stop-color="#3A3A38" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.mb-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}
+.mb-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.mb-sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.mb-in{animation:mb-in 1.2s cubic-bezier(.16,1,.3,1) both}
+.mb-d1{animation-delay:.15s}.mb-d2{animation-delay:.4s}.mb-d3{animation-delay:.65s}
+.mb-chip{animation:mb-chip .7s cubic-bezier(.34,1.56,.64,1) both}
+.mb-draw{stroke-dasharray:700;stroke-dashoffset:700;animation:mb-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards}
+.mb-trace{stroke-dasharray:564 3136;stroke-dashoffset:3700;animation:mb-trace 7s linear infinite}
+@keyframes mb-in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes mb-chip{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes mb-draw{to{stroke-dashoffset:0}}
+@keyframes mb-trace{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.mb-in,.mb-chip{animation:none}.mb-draw{animation:none;stroke-dashoffset:0}.mb-trace{display:none}}
+</style>
+<g clip-path="url(#mb-clip)">
+<rect width="1200" height="290" fill="url(#mb-bg)"/>
+<rect x="1200" width="0" height="290" fill="url(#mb-grid)"/>
+<rect width="1200" height="290" fill="url(#mb-glow)"/>
+<g class="mb-in mb-d1"><text class="mb-mono" x="56" y="50" font-size="12" letter-spacing="2.6" fill="#3A3A38">06 · MORE BUILDS</text></g><g class="mb-in" style="animation-delay:0.30s">
+<rect x="56" y="72" width="352" height="182" rx="14" fill="#FCFAF5" fill-opacity=".75" stroke="#3A3A38" stroke-opacity=".25"/>
+<text class="mb-mono" x="76" y="102" font-size="10.5" letter-spacing="2" fill="#000000">GAME</text>
+<text class="mb-serif" x="76" y="140" font-size="22" font-weight="300" fill="#0B0C0E">Craji Tic Tac Toe</text>
+<text class="mb-sans" x="76" y="168" font-size="14" fill="#5E5D58">A C++17 console game with a full</text><text class="mb-sans" x="76" y="188" font-size="14" fill="#5E5D58">project report.</text>
+<g class="mb-chip" style="animation-delay:0.80s"><rect x="76" y="212" width="61" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="mb-mono" x="106.5" y="229" text-anchor="middle" font-size="11.5" fill="#1A1A19">C++17</text></g><g class="mb-chip" style="animation-delay:0.90s"><rect x="145" y="212" width="96" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="mb-mono" x="193.0" y="229" text-anchor="middle" font-size="11.5" fill="#1A1A19">Console UI</text></g><g class="mb-chip" style="animation-delay:1.00s"><rect x="249" y="212" width="47" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="mb-mono" x="272.5" y="229" text-anchor="middle" font-size="11.5" fill="#1A1A19">OOP</text></g>
+</g><g class="mb-in" style="animation-delay:0.45s">
+<rect x="432" y="72" width="352" height="182" rx="14" fill="#FCFAF5" fill-opacity=".75" stroke="#3A3A38" stroke-opacity=".25"/>
+<text class="mb-mono" x="452" y="102" font-size="10.5" letter-spacing="2" fill="#000000">DATA</text>
+<text class="mb-serif" x="452" y="140" font-size="22" font-weight="300" fill="#0B0C0E">Personal Finance Analyzer</text>
+<text class="mb-sans" x="452" y="168" font-size="14" fill="#5E5D58">An R project to analyse and visualise</text><text class="mb-sans" x="452" y="188" font-size="14" fill="#5E5D58">personal money data.</text>
+<g class="mb-chip" style="animation-delay:1.00s"><rect x="452" y="212" width="33" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="mb-mono" x="468.5" y="229" text-anchor="middle" font-size="11.5" fill="#1A1A19">R</text></g><g class="mb-chip" style="animation-delay:1.10s"><rect x="493" y="212" width="117" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="mb-mono" x="551.5" y="229" text-anchor="middle" font-size="11.5" fill="#1A1A19">Data Analysis</text></g><g class="mb-chip" style="animation-delay:1.20s"><rect x="618" y="212" width="68" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="mb-mono" x="652.0" y="229" text-anchor="middle" font-size="11.5" fill="#1A1A19">Charts</text></g>
+</g><g class="mb-in" style="animation-delay:0.60s">
+<rect x="808" y="72" width="352" height="182" rx="14" fill="#FCFAF5" fill-opacity=".75" stroke="#3A3A38" stroke-opacity=".25"/>
+<text class="mb-mono" x="828" y="102" font-size="10.5" letter-spacing="2" fill="#000000">SYSTEM</text>
+<text class="mb-serif" x="828" y="140" font-size="22" font-weight="300" fill="#0B0C0E">Appointment Booking</text>
+<text class="mb-sans" x="828" y="168" font-size="14" fill="#5E5D58">A system for booking and managing</text><text class="mb-sans" x="828" y="188" font-size="14" fill="#5E5D58">appointments.</text>
+<g class="mb-chip" style="animation-delay:1.20s"><rect x="828" y="212" width="75" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="mb-mono" x="865.5" y="229" text-anchor="middle" font-size="11.5" fill="#1A1A19">Booking</text></g><g class="mb-chip" style="animation-delay:1.30s"><rect x="911" y="212" width="96" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="mb-mono" x="959.0" y="229" text-anchor="middle" font-size="11.5" fill="#1A1A19">Scheduling</text></g>
+</g>
+<rect x=".5" y=".5" width="1199" height="289" rx="17.5" fill="none" stroke="#3A3A38" stroke-opacity=".2"/>
+<rect class="mb-trace" x=".5" y=".5" width="1199" height="289" rx="17.5" fill="none" stroke="url(#mb-tr)" stroke-width="1.6" stroke-linecap="round"/>
+</g></svg>

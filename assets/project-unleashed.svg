@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-labelledby="p3-t">
+<title id="p3-t">Unleashed: a game prototype developed in Unreal Engine for a game development competition.</title>
+<defs>
+<linearGradient id="p3-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F4EB"/><stop offset="1" stop-color="#EEEADF"/></linearGradient>
+<radialGradient id="p3-glow" cx="82%" cy="30%" r="55%"><stop offset="0" stop-color="#DAD5C6" stop-opacity=".55"/><stop offset="1" stop-color="#CBC6B6" stop-opacity="0"/></radialGradient>
+<pattern id="p3-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#3A3A38" stroke-opacity=".07"/></pattern>
+<filter id="p3-gf" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="p3-clip"><rect width="1200" height="350" rx="18"/></clipPath>
+<linearGradient id="p3-tr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0C0E"/><stop offset=".45" stop-color="#1A1A19"/><stop offset="1" stop-color="#3A3A38" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.p3-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}
+.p3-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.p3-sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.p3-in{animation:p3-in 1.2s cubic-bezier(.16,1,.3,1) both}
+.p3-d1{animation-delay:.15s}.p3-d2{animation-delay:.4s}.p3-d3{animation-delay:.65s}
+.p3-chip{animation:p3-chip .7s cubic-bezier(.34,1.56,.64,1) both}
+.p3-draw{stroke-dasharray:700;stroke-dashoffset:700;animation:p3-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards}
+.p3-trace{stroke-dasharray:564 3136;stroke-dashoffset:3700;animation:p3-trace 7s linear infinite}
+@keyframes p3-in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes p3-chip{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes p3-draw{to{stroke-dashoffset:0}}
+@keyframes p3-trace{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.p3-in,.p3-chip{animation:none}.p3-draw{animation:none;stroke-dashoffset:0}.p3-trace{display:none}}
+</style>
+<g clip-path="url(#p3-clip)">
+<rect width="1200" height="350" fill="url(#p3-bg)"/>
+<rect x="720" width="480" height="350" fill="url(#p3-grid)"/>
+<rect width="1200" height="350" fill="url(#p3-glow)"/>
+<g class="p3-in p3-d1">
+<text class="p3-mono" x="56" y="56" font-size="12" letter-spacing="2.6" fill="#3A3A38">03 · GAME DEV · COMPETITION</text>
+<text class="p3-serif" x="54" y="114" font-size="46" font-weight="300" letter-spacing="-1.2" fill="#0B0C0E">Unleashed</text>
+<text class="p3-sans" x="56" y="152" font-size="17" fill="#5E5D58">A game prototype made for a game development competition.</text>
+<text class="p3-mono" x="56" y="184" font-size="12.5" fill="#1A1A19"><tspan fill="#3A3A38">BUILT ›</tspan> a prototype in Unreal Engine for a game development competition</text>
+<line class="p3-draw" x1="56" y1="210" x2="680" y2="210" stroke="#3A3A38" stroke-opacity=".3"/>
+<g transform="translate(56 252)"><text class="p3-serif" font-size="26" font-weight="300" fill="#0B0C0E">Unreal</text><text class="p3-sans" y="22" font-size="12.5" fill="#5E5D58">Engine</text></g><g transform="translate(261 252)"><text class="p3-serif" font-size="26" font-weight="300" fill="#0B0C0E">Prototype</text><text class="p3-sans" y="22" font-size="12.5" fill="#5E5D58">playable idea</text></g><g transform="translate(466 252)"><text class="p3-serif" font-size="26" font-weight="300" fill="#0B0C0E">Competition</text><text class="p3-sans" y="22" font-size="12.5" fill="#5E5D58">built to a brief</text></g>
+<g class="p3-chip" style="animation-delay:1.00s"><rect x="56" y="298" width="117" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="p3-mono" x="114.5" y="315" text-anchor="middle" font-size="11.5" fill="#1A1A19">Unreal Engine</text></g><g class="p3-chip" style="animation-delay:1.10s"><rect x="181" y="298" width="103" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="p3-mono" x="232.5" y="315" text-anchor="middle" font-size="11.5" fill="#1A1A19">Game Design</text></g>
+</g>
+<g class="p3-in p3-d2"><g transform="translate(730 50)"><rect x="0" y="0" width="420" height="240" rx="12" fill="#FCFAF5" fill-opacity=".6" stroke="#3A3A38" stroke-opacity=".25"/><circle cx="320" cy="66" r="28" fill="#000000" fill-opacity=".9" filter="url(#p3-gf)"><animate attributeName="r" values="26;30;26" dur="4s" repeatCount="indefinite"/></circle><polygon points="0,230 70,140 120,190 200,90 290,200 340,150 420,230" fill="#E9E5D8"/><polygon points="0,230 50,180 130,215 220,150 300,215 380,185 420,230" fill="#CBC6B6" fill-opacity=".8"/><g stroke="#1A1A19" stroke-width="1.5" fill="none"><circle cx="200" cy="130" r="30"/><path d="M200 88V108M200 152V172M158 130H178M222 130H242"/></g><path d="M14 28V14H28" stroke="#3A3A38" stroke-width="1.5" fill="none"/><path d="M406 28V14H392" stroke="#3A3A38" stroke-width="1.5" fill="none"/><path d="M14 212V226H28" stroke="#3A3A38" stroke-width="1.5" fill="none"/><path d="M406 212V226H392" stroke="#3A3A38" stroke-width="1.5" fill="none"/><text class="p3-mono" x="26" y="34" font-size="10.5" letter-spacing="2" fill="#1A1A19">UNREAL ENGINE</text><circle r="1.6" fill="#1A1A19"><animate attributeName="cx" values="90;110" dur="4s" repeatCount="indefinite"/><animate attributeName="cy" values="200;100" dur="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/></circle></g></g>
+<rect x=".5" y=".5" width="1199" height="349" rx="17.5" fill="none" stroke="#3A3A38" stroke-opacity=".2"/>
+<rect class="p3-trace" x=".5" y=".5" width="1199" height="349" rx="17.5" fill="none" stroke="url(#p3-tr)" stroke-width="1.6" stroke-linecap="round"/>
+</g></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 225 44" width="225" height="44" role="img" aria-label="Visit my portfolio website">
+<title>Visit my portfolio website</title>
+<defs><clipPath id="c"><rect x="1" y="1" width="223" height="42" rx="9"/></clipPath></defs>
+<g clip-path="url(#c)"><rect width="225" height="44" fill="#F7F4EB"/><rect width="145" height="44" fill="#EAE6DA"/></g>
+<rect x="1" y="1" width="223" height="42" rx="9" fill="none" stroke="#0B0C0E" stroke-width="1.5"/>
+<g transform="translate(18 14)"><g fill="none" stroke="#0B0C0E" stroke-width="1.6" stroke-linecap="round"><circle cx="8" cy="8" r="6.5"/><ellipse cx="8" cy="8" rx="2.8" ry="6.5"/><path d="M1.5 8h13"/></g></g>
+<text x="44" y="27.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" letter-spacing="1.4" fill="#0B0C0E" textLength="85" lengthAdjust="spacing">PORTFOLIO</text>
+<text x="161" y="27.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13.5" font-weight="700" fill="#0B0C0E" textLength="44" lengthAdjust="spacing">Visit</text>
+</svg>

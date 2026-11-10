@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-labelledby="p1-t">
+<title id="p1-t">TripTrack: a web application for tracking travel expenses and managing budgets while travelling.</title>
+<defs>
+<linearGradient id="p1-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F4EB"/><stop offset="1" stop-color="#EEEADF"/></linearGradient>
+<radialGradient id="p1-glow" cx="82%" cy="30%" r="55%"><stop offset="0" stop-color="#DAD5C6" stop-opacity=".55"/><stop offset="1" stop-color="#CBC6B6" stop-opacity="0"/></radialGradient>
+<pattern id="p1-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#3A3A38" stroke-opacity=".07"/></pattern>
+<filter id="p1-gf" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="p1-clip"><rect width="1200" height="350" rx="18"/></clipPath>
+<linearGradient id="p1-tr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0C0E"/><stop offset=".45" stop-color="#1A1A19"/><stop offset="1" stop-color="#3A3A38" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.p1-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}
+.p1-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.p1-sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.p1-in{animation:p1-in 1.2s cubic-bezier(.16,1,.3,1) both}
+.p1-d1{animation-delay:.15s}.p1-d2{animation-delay:.4s}.p1-d3{animation-delay:.65s}
+.p1-chip{animation:p1-chip .7s cubic-bezier(.34,1.56,.64,1) both}
+.p1-draw{stroke-dasharray:700;stroke-dashoffset:700;animation:p1-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards}
+.p1-trace{stroke-dasharray:564 3136;stroke-dashoffset:3700;animation:p1-trace 7s linear infinite}
+@keyframes p1-in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes p1-chip{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes p1-draw{to{stroke-dashoffset:0}}
+@keyframes p1-trace{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.p1-in,.p1-chip{animation:none}.p1-draw{animation:none;stroke-dashoffset:0}.p1-trace{display:none}}
+</style>
+<g clip-path="url(#p1-clip)">
+<rect width="1200" height="350" fill="url(#p1-bg)"/>
+<rect x="720" width="480" height="350" fill="url(#p1-grid)"/>
+<rect width="1200" height="350" fill="url(#p1-glow)"/>
+<g class="p1-in p1-d1">
+<text class="p1-mono" x="56" y="56" font-size="12" letter-spacing="2.6" fill="#3A3A38">01 · WEB APP · TRAVEL</text>
+<text class="p1-serif" x="54" y="114" font-size="46" font-weight="300" letter-spacing="-1.2" fill="#0B0C0E">TripTrack</text>
+<text class="p1-sans" x="56" y="152" font-size="17" fill="#5E5D58">Keeps travel spending and budgets in one place while you move.</text>
+<text class="p1-mono" x="56" y="184" font-size="12.5" fill="#1A1A19"><tspan fill="#3A3A38">BUILT ›</tspan> a web app to track travel expenses and manage trip budgets</text>
+<line class="p1-draw" x1="56" y1="210" x2="680" y2="210" stroke="#3A3A38" stroke-opacity=".3"/>
+<g transform="translate(56 252)"><text class="p1-serif" font-size="26" font-weight="300" fill="#0B0C0E">Expenses</text><text class="p1-sans" y="22" font-size="12.5" fill="#5E5D58">logged as you go</text></g><g transform="translate(261 252)"><text class="p1-serif" font-size="26" font-weight="300" fill="#0B0C0E">Budgets</text><text class="p1-sans" y="22" font-size="12.5" fill="#5E5D58">set per trip</text></g><g transform="translate(466 252)"><text class="p1-serif" font-size="26" font-weight="300" fill="#0B0C0E">Travel</text><text class="p1-sans" y="22" font-size="12.5" fill="#5E5D58">built for the road</text></g>
+<g class="p1-chip" style="animation-delay:1.00s"><rect x="56" y="298" width="54" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="p1-mono" x="83.0" y="315" text-anchor="middle" font-size="11.5" fill="#1A1A19">HTML</text></g><g class="p1-chip" style="animation-delay:1.10s"><rect x="118" y="298" width="47" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="p1-mono" x="141.5" y="315" text-anchor="middle" font-size="11.5" fill="#1A1A19">CSS</text></g><g class="p1-chip" style="animation-delay:1.20s"><rect x="173" y="298" width="96" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="p1-mono" x="221.0" y="315" text-anchor="middle" font-size="11.5" fill="#1A1A19">JavaScript</text></g>
+</g>
+<g class="p1-in p1-d2"><g transform="translate(730 50)"><path d="M20 200 C 90 40, 170 250, 250 110 S 380 50, 400 150" fill="none" stroke="#3A3A38" stroke-width="2" stroke-dasharray="6 8" stroke-opacity=".8"><animate attributeName="stroke-dashoffset" from="0" to="-56" dur="2.5s" repeatCount="indefinite"/></path><circle cx="20" cy="200" r="14" fill="#3A3A38" fill-opacity=".15"><animate attributeName="r" values="8;16;8" dur="3s" repeatCount="indefinite"/></circle><circle cx="20" cy="200" r="6" fill="#1A1A19"/><text class="p1-mono" x="20" y="180" text-anchor="middle" font-size="10.5" letter-spacing="1.5" fill="#1A1A19">DAY 1</text><circle cx="250" cy="110" r="14" fill="#3A3A38" fill-opacity=".15"><animate attributeName="r" values="8;16;8" dur="3s" repeatCount="indefinite"/></circle><circle cx="250" cy="110" r="6" fill="#1A1A19"/><text class="p1-mono" x="250" y="90" text-anchor="middle" font-size="10.5" letter-spacing="1.5" fill="#1A1A19">DAY 3</text><circle cx="400" cy="150" r="14" fill="#3A3A38" fill-opacity=".15"><animate attributeName="r" values="8;16;8" dur="3s" repeatCount="indefinite"/></circle><circle cx="400" cy="150" r="6" fill="#1A1A19"/><text class="p1-mono" x="400" y="130" text-anchor="middle" font-size="10.5" letter-spacing="1.5" fill="#1A1A19">DAY 5</text><text class="p1-mono" x="10" y="228" font-size="10.5" letter-spacing="2" fill="#5E5D58">BUDGET</text><rect x="80" y="219" width="330" height="9" rx="4.5" fill="#E9E5D8"/><rect x="80" y="219" width="0" height="9" rx="4.5" fill="#000000"><animate attributeName="width" from="0" to="228" dur="2s" begin=".8s" fill="freeze"/></rect></g></g>
+<rect x=".5" y=".5" width="1199" height="349" rx="17.5" fill="none" stroke="#3A3A38" stroke-opacity=".2"/>
+<rect class="p1-trace" x=".5" y=".5" width="1199" height="349" rx="17.5" fill="none" stroke="url(#p1-tr)" stroke-width="1.6" stroke-linecap="round"/>
+</g></svg>

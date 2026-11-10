@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="1200" height="120" role="img" aria-label="05 Commit log: Showing up daily.">
+<defs>
+<linearGradient id="tc-line" gradientUnits="userSpaceOnUse" x1="40" y1="0" x2="1160" y2="0"><stop offset="0" stop-color="#CFCBBE"/><stop offset=".6" stop-color="#55565B"/><stop offset="1" stop-color="#55565B" stop-opacity="0"/></linearGradient>
+<linearGradient id="tc-sheen" gradientUnits="userSpaceOnUse" x1="-300" y1="0" x2="0" y2="0"><stop offset="0" stop-color="#F7F4EB"/><stop offset=".5" stop-color="#9B9A94"/><stop offset="1" stop-color="#F7F4EB"/><animateTransform attributeName="gradientTransform" type="translate" values="0 0;1500 0;1500 0" keyTimes="0;.4;1" dur="7s" begin="1.5s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="tc-pulse"><stop offset="0" stop-color="#F7F4EB"/><stop offset=".5" stop-color="#F7F4EB" stop-opacity=".6"/><stop offset="1" stop-color="#CFCBBE" stop-opacity="0"/></radialGradient>
+</defs>
+<style>.tc-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}
+.tc-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.tc-sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.tc-in{animation:tc-in 1.2s cubic-bezier(.16,1,.3,1) both}
+.tc-d1{animation-delay:.15s}.tc-d2{animation-delay:.4s}.tc-d3{animation-delay:.65s}
+.tc-chip{animation:tc-chip .7s cubic-bezier(.34,1.56,.64,1) both}
+.tc-draw{stroke-dasharray:700;stroke-dashoffset:700;animation:tc-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards}
+.tc-trace{stroke-dasharray:564 3136;stroke-dashoffset:3700;animation:tc-trace 7s linear infinite}
+@keyframes tc-in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes tc-chip{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes tc-draw{to{stroke-dashoffset:0}}
+@keyframes tc-trace{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.tc-in,.tc-chip{animation:none}.tc-draw{animation:none;stroke-dashoffset:0}.tc-trace{display:none}}
+</style>
+<g class="tc-in"><text class="tc-mono" x="40" y="34" font-size="15" letter-spacing="3" fill="#CFCBBE"><tspan fill="#F7F4EB">05</tspan>   COMMIT LOG</text></g>
+<g class="tc-in tc-d2"><text class="tc-serif" x="38" y="84" font-size="48" font-weight="300" letter-spacing="-1" fill="#F7F4EB">Showing <tspan font-style="italic" fill="url(#tc-sheen)">up daily.</tspan></text></g>
+<g class="tc-in tc-d3"><text class="tc-mono" x="1160" y="34" text-anchor="end" font-size="13" letter-spacing="2.4" fill="#CFCBBE">ACTIVITY</text></g>
+<path class="tc-draw" d="M40 106 H1160" stroke="url(#tc-line)" stroke-width="1"/>
+<circle cx="40" cy="106" r="7" fill="url(#tc-pulse)" opacity="0"><animate attributeName="cx" values="40;1160" dur="6s" begin="2.3s" repeatCount="indefinite" calcMode="spline" keyTimes="0;1" keySplines=".45 0 .55 1"/><animate attributeName="opacity" values="0;1;0" keyTimes="0;.15;1" dur="6s" begin="2.3s" repeatCount="indefinite"/></circle>
+</svg>

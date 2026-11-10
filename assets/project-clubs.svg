@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 350" width="1200" height="350" role="img" aria-labelledby="p5-t">
+<title id="p5-t">Clubs Portal: a web portal for discovering, joining and managing student clubs.</title>
+<defs>
+<linearGradient id="p5-bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F4EB"/><stop offset="1" stop-color="#EEEADF"/></linearGradient>
+<radialGradient id="p5-glow" cx="82%" cy="30%" r="55%"><stop offset="0" stop-color="#DAD5C6" stop-opacity=".55"/><stop offset="1" stop-color="#CBC6B6" stop-opacity="0"/></radialGradient>
+<pattern id="p5-grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#3A3A38" stroke-opacity=".07"/></pattern>
+<filter id="p5-gf" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<clipPath id="p5-clip"><rect width="1200" height="350" rx="18"/></clipPath>
+<linearGradient id="p5-tr" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B0C0E"/><stop offset=".45" stop-color="#1A1A19"/><stop offset="1" stop-color="#3A3A38" stop-opacity="0"/></linearGradient>
+</defs>
+<style>.p5-serif{font-family:Georgia,"Iowan Old Style","Palatino Linotype","Times New Roman",serif}
+.p5-mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace}
+.p5-sans{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif}
+.p5-in{animation:p5-in 1.2s cubic-bezier(.16,1,.3,1) both}
+.p5-d1{animation-delay:.15s}.p5-d2{animation-delay:.4s}.p5-d3{animation-delay:.65s}
+.p5-chip{animation:p5-chip .7s cubic-bezier(.34,1.56,.64,1) both}
+.p5-draw{stroke-dasharray:700;stroke-dashoffset:700;animation:p5-draw 2s cubic-bezier(.65,0,.35,1) .5s forwards}
+.p5-trace{stroke-dasharray:564 3136;stroke-dashoffset:3700;animation:p5-trace 7s linear infinite}
+@keyframes p5-in{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+@keyframes p5-chip{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes p5-draw{to{stroke-dashoffset:0}}
+@keyframes p5-trace{to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){.p5-in,.p5-chip{animation:none}.p5-draw{animation:none;stroke-dashoffset:0}.p5-trace{display:none}}
+</style>
+<g clip-path="url(#p5-clip)">
+<rect width="1200" height="350" fill="url(#p5-bg)"/>
+<rect x="720" width="480" height="350" fill="url(#p5-grid)"/>
+<rect width="1200" height="350" fill="url(#p5-glow)"/>
+<g class="p5-in p5-d1">
+<text class="p5-mono" x="56" y="56" font-size="12" letter-spacing="2.6" fill="#3A3A38">05 · WEB APP · CAMPUS</text>
+<text class="p5-serif" x="54" y="114" font-size="46" font-weight="300" letter-spacing="-1.2" fill="#0B0C0E">Clubs Portal</text>
+<text class="p5-sans" x="56" y="152" font-size="17" fill="#5E5D58">One place to find, join and keep up with campus clubs.</text>
+<text class="p5-mono" x="56" y="184" font-size="12.5" fill="#1A1A19"><tspan fill="#3A3A38">BUILT ›</tspan> a web portal that brings student clubs and their activity together</text>
+<line class="p5-draw" x1="56" y1="210" x2="680" y2="210" stroke="#3A3A38" stroke-opacity=".3"/>
+<g transform="translate(56 252)"><text class="p5-serif" font-size="26" font-weight="300" fill="#0B0C0E">Discover</text><text class="p5-sans" y="22" font-size="12.5" fill="#5E5D58">clubs in one place</text></g><g transform="translate(261 252)"><text class="p5-serif" font-size="26" font-weight="300" fill="#0B0C0E">Join</text><text class="p5-sans" y="22" font-size="12.5" fill="#5E5D58">and stay updated</text></g><g transform="translate(466 252)"><text class="p5-serif" font-size="26" font-weight="300" fill="#0B0C0E">Manage</text><text class="p5-sans" y="22" font-size="12.5" fill="#5E5D58">club activity</text></g>
+<g class="p5-chip" style="animation-delay:1.00s"><rect x="56" y="298" width="75" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="p5-mono" x="93.5" y="315" text-anchor="middle" font-size="11.5" fill="#1A1A19">Web App</text></g><g class="p5-chip" style="animation-delay:1.10s"><rect x="139" y="298" width="117" height="26" rx="13" fill="#F1EEE4" stroke="#3A3A38" stroke-opacity=".35"/><text class="p5-mono" x="197.5" y="315" text-anchor="middle" font-size="11.5" fill="#1A1A19">Student Clubs</text></g>
+</g>
+<g class="p5-in p5-d2"><g transform="translate(730 50)"><text class="p5-mono" x="10" y="14" font-size="10.5" letter-spacing="2" fill="#5E5D58">CLUBS</text><rect x="0" y="26" width="128" height="60" rx="10" fill="#E9E5D8" stroke="#3A3A38" stroke-opacity="0.22"/><circle cx="26" cy="56" r="14" fill="#0B0C0E" fill-opacity="0.18"/><rect x="50" y="48" width="60" height="5" rx="2.5" fill="#0B0C0E" fill-opacity=".35"/><rect x="50" y="60" width="40" height="4" rx="2" fill="#0B0C0E" fill-opacity=".18"/><rect x="140" y="26" width="128" height="60" rx="10" fill="#E9E5D8" stroke="#000000" stroke-opacity="0.9"/><circle cx="166" cy="56" r="14" fill="#0B0C0E" fill-opacity="0.9"/><rect x="190" y="48" width="60" height="5" rx="2.5" fill="#0B0C0E" fill-opacity=".35"/><rect x="190" y="60" width="40" height="4" rx="2" fill="#0B0C0E" fill-opacity=".18"/><rect x="280" y="26" width="128" height="60" rx="10" fill="#E9E5D8" stroke="#3A3A38" stroke-opacity="0.22"/><circle cx="306" cy="56" r="14" fill="#0B0C0E" fill-opacity="0.18"/><rect x="330" y="48" width="60" height="5" rx="2.5" fill="#0B0C0E" fill-opacity=".35"/><rect x="330" y="60" width="40" height="4" rx="2" fill="#0B0C0E" fill-opacity=".18"/><rect x="0" y="96" width="128" height="60" rx="10" fill="#E9E5D8" stroke="#3A3A38" stroke-opacity="0.22"/><circle cx="26" cy="126" r="14" fill="#0B0C0E" fill-opacity="0.18"/><rect x="50" y="118" width="60" height="5" rx="2.5" fill="#0B0C0E" fill-opacity=".35"/><rect x="50" y="130" width="40" height="4" rx="2" fill="#0B0C0E" fill-opacity=".18"/><rect x="140" y="96" width="128" height="60" rx="10" fill="#E9E5D8" stroke="#3A3A38" stroke-opacity="0.22"/><circle cx="166" cy="126" r="14" fill="#0B0C0E" fill-opacity="0.18"/><rect x="190" y="118" width="60" height="5" rx="2.5" fill="#0B0C0E" fill-opacity=".35"/><rect x="190" y="130" width="40" height="4" rx="2" fill="#0B0C0E" fill-opacity=".18"/><rect x="280" y="96" width="128" height="60" rx="10" fill="#E9E5D8" stroke="#3A3A38" stroke-opacity="0.22"/><circle cx="306" cy="126" r="14" fill="#0B0C0E" fill-opacity="0.18"/><rect x="330" y="118" width="60" height="5" rx="2.5" fill="#0B0C0E" fill-opacity=".35"/><rect x="330" y="130" width="40" height="4" rx="2" fill="#0B0C0E" fill-opacity=".18"/><circle cx="166" cy="56" r="20" fill="none" stroke="#000000"><animate attributeName="r" values="14;24;14" dur="3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".7;0;.7" dur="3s" repeatCount="indefinite"/></circle><text class="p5-mono" x="10" y="184" font-size="10.5" letter-spacing="2" fill="#5E5D58">UPCOMING</text><rect x="0" y="194" width="408" height="28" rx="8" fill="#FCFAF5" stroke="#3A3A38" stroke-opacity=".2"/><rect x="8" y="198" width="26" height="20" rx="5" fill="#E9E5D8"/><text class="p5-mono" x="21" y="212" text-anchor="middle" font-size="11" fill="#1A1A19">12</text><rect x="46" y="205" width="210" height="5" rx="2.5" fill="#0B0C0E" fill-opacity=".3"/><rect x="340" y="199" width="58" height="18" rx="9" fill="#000000"/><text class="p5-mono" x="369" y="212" text-anchor="middle" font-size="10" font-weight="700" fill="#F7F4EB">JOIN</text><rect x="0" y="228" width="408" height="28" rx="8" fill="#FCFAF5" stroke="#3A3A38" stroke-opacity=".2"/><rect x="8" y="232" width="26" height="20" rx="5" fill="#E9E5D8"/><text class="p5-mono" x="21" y="246" text-anchor="middle" font-size="11" fill="#1A1A19">19</text><rect x="46" y="239" width="170" height="5" rx="2.5" fill="#0B0C0E" fill-opacity=".3"/><rect x="340" y="233" width="58" height="18" rx="9" fill="#000000"/><text class="p5-mono" x="369" y="246" text-anchor="middle" font-size="10" font-weight="700" fill="#F7F4EB">JOIN</text></g></g>
+<rect x=".5" y=".5" width="1199" height="349" rx="17.5" fill="none" stroke="#3A3A38" stroke-opacity=".2"/>
+<rect class="p5-trace" x=".5" y=".5" width="1199" height="349" rx="17.5" fill="none" stroke="url(#p5-tr)" stroke-width="1.6" stroke-linecap="round"/>
+</g></svg>
